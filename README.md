@@ -1,6 +1,7 @@
 # ECBM4040 Course Project Code
 
 Student: Aaron Geelon So
+
 Project Report:
 [Considering an Information-Theoretic Foundation to Question of
 Generalization in Neural
