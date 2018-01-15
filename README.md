@@ -2,9 +2,10 @@
 
 Student: Aaron Geelon So
 Project Report:
-[https://geelon.github.io/projects/files/2017-fall/neural-networks-final-report.pdf](Considering
-an Information-Theoretic Foundation to Question of Generalization in
-Neural Networks)
+[Considering an Information-Theoretic Foundation to Question of
+Generalization in Neural
+Networks](https://geelon.github.io/projects/files/2017-fall/neural-networks-final-report.pdf) 
+
 
 ## Overview
 
